@@ -10,6 +10,6 @@ VALUES
 	("Ghost Costume", "Clothing", 25.99, 100),
 	("Candy Corn", "Food and Drink", 2.99, 100),
 	("Haunted House Experience", "Memberships", 125.99, 100),
-	("Haunted Cron Maze Experience", "Memberships", 125.99, 100);
+	("Haunted Corn Maze Experience", "Memberships", 125.99, 100);
 	
 	SELECT * FROM products;
